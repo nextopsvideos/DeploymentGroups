@@ -9,13 +9,13 @@
             "value": "azureadmin"
         },
         "password": {
-            "value": "Admin@12345678"
+            "value": ""
         },
         "sqlAuthenticationLogin": {
             "value": "sqladmin"
         },
         "sqlAuthenticationPassword": {
-            "value": "Admin@12345678"
+            "value": ""
         }
     }
 }
