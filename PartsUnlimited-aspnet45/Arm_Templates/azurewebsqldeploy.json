@@ -39,12 +39,13 @@
                 "Standard_DS11",
                 "Standard_DS12",
                 "Standard_DS13",
-                "Standard_DS14"
+                "Standard_DS14",
+                "Standard_B1s"
             ],
             "metadata": {
                 "description": "The size of the Web Server VMs Created"
             },
-            "defaultValue": "Standard_D2_v2"
+            "defaultValue": "Standard_B1s"
         },
         "numberOfWebSrvs": {
             "type": "int",
@@ -59,7 +60,7 @@
                 5,
                 6
             ],
-            "defaultValue": 6
+            "defaultValue": 2
         },
         "sqlVMSize": {
             "type": "string",
