@@ -1,0 +1,1 @@
+Data Source=servername.eastus.cloudapp.azure.com;Initial Catalog=PartsUnlimited-Dev;User ID=sqladmin;Password=12345678;MultipleActiveResultSets=False;Connection Timeout=30;
